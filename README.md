@@ -8,7 +8,7 @@ The 'code' directory contains the Python/R scripts used to clean the data, creat
 
 1. ***join_data.ipynb*** : This script joins the data from the different csv's into one data frame. It also cleans the data by removing rows with missing values and only keeping data from the year 2019. The final data set is saved as a csv in the 'output' directory as 'joined_data.csv'.
 
-The 'output' directory contains the final data set, as well as the plots used in the final presentation. A description of the files/plots is below:
+The 'output' directory contains the final data set, as well as the plots used in the final presentation. Descriptions of the files/plots are below:
 
 1. ***joined_data.csv***: The final data set used for the presentation. It contains the data from the different csv's joined together, as well as the cleaned data. The data is from the year 2019. The columns are as follows:
 
